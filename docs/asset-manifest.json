@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7f3b239.css",
-    "main.js": "/static/js/main.48810874.js",
-    "static/js/453.906b0208.chunk.js": "/static/js/453.906b0208.chunk.js",
-    "static/media/BannerLogo.png": "/static/media/BannerLogo.b2f2a5c1da0cac34dd45.png",
-    "static/media/banner_wallpaper.svg": "/static/media/banner_wallpaper.5b229208c6d7d80f5c3fda1ac630a268.svg",
-    "static/media/dev-logo.jpg": "/static/media/dev-logo.c12bddc0d09cbe0f5e85.jpg",
-    "static/media/AboutSectionImage.avif": "/static/media/AboutSectionImage.9e491744414461952b23.avif",
-    "index.html": "/index.html",
-    "main.c7f3b239.css.map": "/static/css/main.c7f3b239.css.map",
-    "main.48810874.js.map": "/static/js/main.48810874.js.map",
-    "453.906b0208.chunk.js.map": "/static/js/453.906b0208.chunk.js.map"
+    "main.css": "/gyankumarweb/static/css/main.c7f3b239.css",
+    "main.js": "/gyankumarweb/static/js/main.0556dcbe.js",
+    "static/js/453.906b0208.chunk.js": "/gyankumarweb/static/js/453.906b0208.chunk.js",
+    "static/media/BannerLogo.png": "/gyankumarweb/static/media/BannerLogo.b2f2a5c1da0cac34dd45.png",
+    "static/media/banner_wallpaper.svg": "/gyankumarweb/static/media/banner_wallpaper.5b229208c6d7d80f5c3fda1ac630a268.svg",
+    "static/media/dev-logo.jpg": "/gyankumarweb/static/media/dev-logo.c12bddc0d09cbe0f5e85.jpg",
+    "static/media/AboutSectionImage.avif": "/gyankumarweb/static/media/AboutSectionImage.9e491744414461952b23.avif",
+    "index.html": "/gyankumarweb/index.html",
+    "main.c7f3b239.css.map": "/gyankumarweb/static/css/main.c7f3b239.css.map",
+    "main.0556dcbe.js.map": "/gyankumarweb/static/js/main.0556dcbe.js.map",
+    "453.906b0208.chunk.js.map": "/gyankumarweb/static/js/453.906b0208.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7f3b239.css",
-    "static/js/main.48810874.js"
+    "static/js/main.0556dcbe.js"
   ]
 }
